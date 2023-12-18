@@ -1,0 +1,41 @@
+commit 41a36963cea5d289aa20e4ca19b19eca18055216
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 14:43:40 2023 -0300
+
+    Códigos da camera e do RFID, junto com as imagens dos circuitos montados e as capturadas pelas camera
+
+commit e9c65399c2622ede9d3f1022dbbad7958d3cc875
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 17:12:47 2023 -0300
+
+    Update README.md
+
+commit 9ae8412359d769731d863a73cab7891d6d14ed61
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 17:11:19 2023 -0300
+
+    Update README.md
+
+commit 00d7b031ab2d3965d98666c69eb92be8b8539051
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 16:59:54 2023 -0300
+
+    Create README.md
+
+commit e240f4a34810922a57cd11c23c84b69d07acde29
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 16:59:18 2023 -0300
+
+    Delete Prática 6
+
+commit 9a046e80f0dc239912dad9ca8f728f88b082da33
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 16:58:23 2023 -0300
+
+    Create Prática 6
+
+commit 633bf0aa92af6ae499adaf876fed6afc33309195
+Author: Kdocia <134646850+Kdocia@users.noreply.github.com>
+Date:   Mon Dec 18 16:57:41 2023 -0300
+
+    Initial commit
