@@ -1,0 +1,16 @@
+[Unit]
+# Descrição do serviço (será exibida em mensagens de status, logs, etc.)
+Description=Blink LED
+# Indica que este serviço só deve iniciar após o carregamento do multi-user.target
+After=multi-user.target
+
+[Service]
+# Comando que inicia o serviço, especificando o caminho para o interpretador Python e o script blink.py
+ExecStart=/usr/bin/python3 "/home/sel/pratica7/blink.py"
+# Especifica o usuário sob o qual o serviço será executado
+User=sel
+
+[Install]
+# Indica quando este serviço deve ser instalado e iniciado
+WantedBy=multi-user.target
+

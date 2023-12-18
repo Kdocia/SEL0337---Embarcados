@@ -1,0 +1,51 @@
+1618  mkdir pratica7
+ 1619  ls
+ 1620  cd pratica7
+ 1621  nano blink.py
+ 1622  chmod +x ./blink.py
+ 1623  pyhton3 blink.py
+ 1624  python3 blink.py
+ 1625  nano blink.service
+ 1626  sudo cp blink.service /lib/systemd/system/
+ 1627  sudo systemctl start blink
+ 1628  nano blink.service
+ 1629  sudo systemctl start blink
+ 1630  nano blink.service
+ 1631  sudo systemctl start blink
+ 1632  nano blink.service
+ 1633  sudo systemctl start blink
+ 1634  nano blink.service
+ 1635  sudo systemctl start blink
+ 1636  nano blink.service
+ 1637  sudo systemctl start blink
+ 1638  nano blink.service
+ 1639  sudo systemctl start blink
+ 1640  nano blink.service
+ 1641  sudo systemctl start blink
+ 1642  nano blink.service
+ 1643  cd
+ 1644  cd service
+ 1645  cd /lib/systemd/system
+ 1646  sudo rm blink.service
+ 1647  cd
+ 1648  cd pratica7
+ 1649  sudo cp blink.service /lib/systemd/system/
+ 1650  sudo systemctl start blink
+ 1651  systemctl daemon-reload
+ 1652  sudo systemctl start blink
+ 1653  cd
+ 1654  cd /lib/systemd/system
+ 1655  ls
+ 1656  cd
+ 1657  cd pratica7
+ 1658  nano blink.service
+ 1659  sudo cp ledblink.service /lib/systemd/system/
+ 1660  nano blink.service
+ 1661  nano ledblink.service
+ 1662  sudo cp ledblink.service /lib/systemd/system/
+ 1663  sudo systemctl start ledblink
+ 1664  nano ledblink.service
+ 1665  sudo cp ledblink.service /lib/systemd/system/
+ 1666  sudo systemctl start ledblink
+ 1667  sudo systemctl enable ledblink
+ 1668  history
